@@ -4,7 +4,7 @@ A small password strength checker built with Python's standard libraries. Intuit
 
 This was developed as a small side project, partly for fun and partly to explore how different Large Language Models (LLMs) can aid in the rapid development and iteration of such a tool—from generating initial code to refining UI concepts and writing documentation.
 
-![Dashboard UI Screenshot](https://i.imgur.com/7gK5c4G.png)
+![Dashboard UI Screenshot](https://github.com/jakobheuer/passwordStrengthChecker/blob/main/UI.png)
 
 ---
 
